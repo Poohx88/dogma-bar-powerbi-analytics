@@ -55,6 +55,6 @@ This project transforms raw POS transaction data into interactive executive repo
 ---
 
 ## 👤 Author
-**Pavel Kostyuchenkov**  
+**Pavel Kostiuchenkov**  
 *Data Analyst & Business Intelligence Specialist*  
 📍 Porto, Portugal
